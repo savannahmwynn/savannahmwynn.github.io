@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,6 +8,8 @@
 <body>
     <h1>Technical Writing Samples</h1>
     <p>This is a sample of my work in technical writing. It demonstrates my ability to create clear, concise, and comprehensive documentation. You can explore the different sections below:</p>
+
+
     
 <h2>User Documentation Overhaul</h2>
     <p>Simplified and improved the usability of user manuals to enhance user experience and accessibility by aligning with a style guide.</p>
@@ -28,6 +31,9 @@
     <p>The Impact Blog is a project aimed at enhancing user comprehension and engagement through effective communication of a documentation overhaul.</p>
     <p>Read more about <a href="https://github.com/savannahmwynn/savannahmwynn.github.io/wiki/Impact-Blog">Impact Blog</a></p>
 </body>
+
+<img src="https://img.shields.io/badge/Jekyll-v4.2.0-blue.svg" alt="Jekyll Version">
+
 </html>
 
     
