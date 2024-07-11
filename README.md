@@ -9,7 +9,8 @@
     
    <h2>User Documentation Overhaul </h2>
     <p>Simplified and improved the usability of user manuals to enhance user experience and accessibility by aligning with a style guide.</p>
-    <p>Read more about this: <a href="files/introduction.html">Introduction</a></p>
+    <p>Read more about this:[User Documentation Overhaul](https://github.com/savannahmwynn/savannahmwynn.github.io/wiki/Technical-Writer-Onboarding) </p>
+    [User Documentation Overhaul](https://github.com/savannahmwynn/savannahmwynn.github.io/wiki/Technical-Writer-Onboarding)
     
   <h2>Technical Writer Onboarding</h2>
     <p>Revise the onboarding process for a new technical writer to ensure clarity and ease of integration.</p>
